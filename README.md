@@ -8,6 +8,6 @@ It is website which shows cute cat images.
 
 you can check the live working of this code on below link :
 
-https://siddhantagrawa1.github.io/Weather-App/
+https://siddhantagrawa1.github.io/Cat-Imager/
 
 Please, Feel free to review.
